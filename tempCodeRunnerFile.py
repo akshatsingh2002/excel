@@ -1,0 +1,1 @@
+df.drop('State name')
