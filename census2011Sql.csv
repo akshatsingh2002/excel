@@ -1,4 +1,4 @@
-Unnamed: 0,State/UT,District,Population,Male,Female,Literate,Literate_Male,Literate_Female,Rural_Households,Urban_Households,Households,Young_and_Adult,Middle_Aged,Senior_Citizen,Age_Not_Stated
+Unnamed: 0,State_UT,District,Population,Male,Female,Literate,Literate_Male,Literate_Female,Rural_Households,Urban_Households,Households,Young_and_Adult,Middle_Aged,Senior_Citizen,Age_Not_Stated
 0,JAMMU AND KASHMIR,Kupwara,870354,474190,396164,439654,282823,156831,158438,,181664,600759,178435,89679,1481
 1,JAMMU AND KASHMIR,Badgam,753745,,355704,335649,207741,127908,160649,27190,187839,503223,160933,88978,611
 2,JAMMU AND KASHMIR,Leh(Ladakh),133487,78971,54516,93770,62834,30936,36920,17474,54394,70703,41515,,250

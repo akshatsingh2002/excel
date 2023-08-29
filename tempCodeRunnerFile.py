@@ -1,1 +1,1 @@
-df.drop('State name')
+print(df)
