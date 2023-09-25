@@ -1,1 +1,1 @@
-print(df)
+for i in range(0,639):
