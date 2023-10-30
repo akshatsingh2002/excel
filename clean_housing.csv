@@ -1,4 +1,4 @@
-District Name,Rural/Urban,Total Number of households,Total Number of Livable,Total Number of Dilapidated,Latrine_premise
+District_Name,RuralandUrban,households,Livable,Dilapidated,Latrine_premise
 Kupwara,Rural,100,58.1,8.3,48.9
 Kupwara,Total,100,57.3,7.9,50.9
 Kupwara,Urban,100,49.5,4.8,70.2
